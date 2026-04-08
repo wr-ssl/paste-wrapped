@@ -48,6 +48,16 @@ Run lint checks with:
 npm run lint
 ```
 
+## Install from GitHub
+
+To install this plugin directly from the GitHub repository:
+
+1. Clone this repository, or download and extract it from GitHub.
+2. Run `npm install` in the project folder.
+3. Run `npm run build` to generate the plugin files.
+4. Copy `main.js`, `manifest.json`, and `styles.css` into your vault at `.obsidian/plugins/paste-wrapped/`.
+5. Reload Obsidian and enable **Paste Wrapped** in **Settings -> Community plugins**.
+
 ## Manual installation
 
 Copy these files into your vault at `.obsidian/plugins/paste-wrapped/`:
