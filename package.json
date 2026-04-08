@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "paste-wrapped",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "An Obsidian plugin that pastes clipboard text on a single wrapped line.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
